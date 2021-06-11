@@ -9,9 +9,6 @@ const Contact = () => {
     return(
         <div className ='Contact' id='contact'>
 
-            <div className='nombre'>
-                <p>PABLO<br></br>MEDINA</p>
-            </div>
             <div className='DatosPersonales'>
                 <p>Dirección: Belisario Roldan 835 - CP:5019 - Córdoba, Argentina</p>
                 <p>Teléfono: +54 9 351 200-0597</p>
