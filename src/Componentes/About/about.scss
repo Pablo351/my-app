@@ -1,0 +1,26 @@
+.col-lg-4{
+
+    max-width: 100%;
+    min-width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+
+    .rounded-circle{
+        height: 250px;
+        width: 250px;
+    }
+
+    h2{
+        padding: 25px 15px 15px 15px;
+    }
+
+    .descrption{
+        justify-content: flex-start;
+        padding: 1% 10% 5% 10%;
+        overflow-y: auto;
+
+    }
+}

@@ -1,0 +1,25 @@
+
+
+.Contact{
+    height: 200px;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    align-items: center;
+    width: 100%;
+    min-width: 250px;
+    
+    .Redes{
+        
+        .ImagenesRedes{
+
+            img{
+                height: 50px;
+                width: 50px;
+                margin-right: 15px;
+            }
+          
+        }
+    }
+}

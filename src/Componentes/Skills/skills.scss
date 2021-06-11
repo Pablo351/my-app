@@ -1,0 +1,23 @@
+.skills{
+    width: 100X;
+    min-width: 250px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 10% 10% 10% 10%;
+
+
+    .imagenesSkills{
+        display: inline-flex;
+        justify-content: center;
+        flex-wrap: wrap;
+
+        img{
+            width: 120px;
+            height: 120px;
+            padding: 15px 15px 15px 15px;
+        }
+           
+    }
+}

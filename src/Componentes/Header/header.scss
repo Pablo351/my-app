@@ -1,0 +1,54 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.header{
+    min-width: 250px;
+    position: fixed;
+    width: 100%;
+    overflow-x: auto;
+    height: 80px;
+    z-index: 10000;
+    background: linear-gradient( rgba(0,0,0,1), rgba(0,0,0,0));
+    
+    
+
+    .container-fluid{
+        justify-content: flex-start;
+        display: inline-flex;
+        
+
+        .logo{
+
+            padding-left: 10px;
+            padding-right: 10px;
+            align-content: center;
+            
+            img{
+                width: 60px;
+                height: 60px;
+                justify-content: flex-start;
+            }
+
+        }
+
+        .navbar{
+
+            li {
+                justify-content: flex-end;
+                list-style: none;
+
+                a {
+                    color: #ffffff;
+                    text-decoration: none;
+                    align-self: center;
+                    padding: 0px 10px 0px 10px;
+
+                }
+            }
+        }
+ 
+
+    }
+
+}
