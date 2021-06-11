@@ -12,7 +12,7 @@ const Home = () =>{
                 <Carousel.Item className='item'>
                     <img className="imagenSlider" src={Image1} alt="First slide" />
                     <Carousel.Caption className='Contenido'>
-                        <h2>Full Stack<br></br>Developer</h2> 
+                        <h2>Web <br></br>Full stack<br></br>Developer</h2> 
                         <p>Curso Realizado en Mundos E - Certificacion UNC</p>   
                     </Carousel.Caption>
                 </Carousel.Item>
