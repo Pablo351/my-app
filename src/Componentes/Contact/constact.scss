@@ -12,10 +12,19 @@
     min-width: 250px;
     padding-left: 15px;
     padding-right: 15px;
+    flex-wrap: wrap;
+
+    .DatosPersonales{
+        padding-left: 10px;
+        padding-bottom:  20px;
+        padding-top: 15px;
+    }
     
     .Redes{
         
         .ImagenesRedes{
+
+            padding-bottom: 15px;
 
             img{
                 height: 50px;

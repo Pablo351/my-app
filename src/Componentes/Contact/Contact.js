@@ -16,7 +16,7 @@ const Contact = () => {
 
             </div>
             <div className='Redes'>
-                <p>Puedes encontrarme en:</p>
+                <p>Te invito a encontrarme en:</p>
                 <div className='ImagenesRedes'>
                         <a href='https://www.linkedin.com/in/pablo-medina-03389a18a/' rel="noreferrer" target="_blank"><img src={Linkedin} alt= 'Linkedin' title='Linkedin' /></a>
                         <a href='https://www.instagram.com/pablo_med_/' rel="noreferrer" target="_blank"><img src={Instagram} alt= 'Instagram' title='Instagram' /></a>
