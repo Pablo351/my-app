@@ -5,30 +5,35 @@
     height: auto;
     background-color: black;
     display: flex;
-    justify-content: space-around;
     color: white;
-    align-items: center;
+    //justify-content: space-around;
+    align-items:center;
     width: 100%;
     min-width: 250px;
     padding-left: 15px;
     padding-right: 15px;
-    flex-wrap: wrap;
+    flex-wrap:wrap;
 
     .DatosPersonales{
         padding-left: 10px;
         padding-bottom:  20px;
         padding-top: 15px;
+        padding-right: 5vw;
     }
     
     .Redes{
         
+        padding-left: 10px;
+        padding-bottom:  20px;
+        padding-top: 15px;
+
         .ImagenesRedes{
 
             padding-bottom: 15px;
 
             img{
-                height: 50px;
-                width: 50px;
+                height: 30px;
+                width: 30px;
                 margin-right: 15px;
                 margin-bottom: 10px;
             }
