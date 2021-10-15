@@ -4,9 +4,9 @@
     min-height: 200px;
     height: auto;
     background-color: black;
+    justify-content: space-between;
     display: flex;
     color: white;
-    //justify-content: space-around;
     align-items:center;
     width: 100%;
     min-width: 250px;
@@ -15,17 +15,20 @@
     flex-wrap:wrap;
 
     .DatosPersonales{
-        padding-left: 10px;
+        padding-left: 5vw;
         padding-bottom:  20px;
         padding-top: 15px;
         padding-right: 5vw;
+        
     }
     
     .Redes{
         
-        padding-left: 10px;
+        padding-left: 5vw;
+        padding-right: 5vw;
         padding-bottom:  20px;
         padding-top: 15px;
+        
 
         .ImagenesRedes{
 
