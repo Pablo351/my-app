@@ -40,8 +40,8 @@ const Home = () =>{
                     <img className="imagenSlider" src={Image3} alt="Fourth slide" />
                     <Carousel.Caption className='Contenido'>
                         <h2>Genexus Developer</h2>
-                        <p>Actualmente desarrolllando en Tekhne. Desarrollo del software para APROSS</p>
-                        <a href="http://www.tekhne.com.ar/" rel="noreferrer" target="_blank">TEKHNE SA</a>
+                        <p>Actualmente desarrolllando en Confluencia FTO. En GxEvo3, Gx17 Con Java y .NET</p>
+                        <a href="https://www.confluenciafto.com.ar/" rel="noreferrer" target="_blank">CONFLU</a>
                     </Carousel.Caption>
                 </Carousel.Item>
 
